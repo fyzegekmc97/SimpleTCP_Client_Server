@@ -1,0 +1,4 @@
+# ninja log v5
+0	15	1643719996084828447	build.ninja	43bb38fd79f8b920
+0	86	1643719996172828868	CMakeFiles/SimpleTCP_Client_Server.dir/client.cpp.o	ae9cde638f0a21d0
+86	120	1643719996208829040	SimpleTCP_Client_Server	7316509f0b58212a

@@ -1,0 +1,3 @@
+/home/feyzi/CLionProjects/SimpleTCP_Client_Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/feyzi/CLionProjects/SimpleTCP_Client_Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/feyzi/CLionProjects/SimpleTCP_Client_Server/cmake-build-debug/CMakeFiles/SimpleTCP_Client_Server.dir
